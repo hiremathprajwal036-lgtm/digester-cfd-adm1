@@ -1,0 +1,6 @@
+Scenario,Dead Zone (%),Active Volume (m³),Effective HRT (days),CH4 Yield (m³/day)
+No Dead Zones (0%),0.0,500.0,20.0,15.45
+Low Dead Zones (15%),15.0,425.0,17.0,12.86
+Baseline (31.8%),31.8,340.99999999999994,13.64,9.98
+High Dead Zones (50%),50.0,250.0,10.0,6.9
+Severe (65%),65.0,175.0,7.0,4.42
