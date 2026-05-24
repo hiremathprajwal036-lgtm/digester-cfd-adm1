@@ -1,7 +1,7 @@
 # digester-cfd-adm1
 
-A Python project I built to model how well a biogas digester 
-actually works — compared to how well it *should* work.
+A Python project, I built to model how well a biogas digester 
+actually works -compared to how well it *should* work.
 
 The main idea: real digesters have "dead zones" (areas where mixing is poor), 
 which means microbes don't get enough substrate and produce less methane than expected. 
